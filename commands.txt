@@ -1,0 +1,14 @@
+1. node --version
+2. npm init
+3. npm install express
+4. npm install nodemon
+5.add start to the script of  "start":"nodemon index.js", in package.json
+6.npm start
+
+
+
+mongodb
+
+npm install mongoose (mongoose is a package name)
+ npm install dotenv
+npm install mongoose
