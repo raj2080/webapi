@@ -19,6 +19,13 @@ dotenv.config()
 
 
 // connecting to database
+
+//previous  {{{{
+// mongoose.connect(process.env.MONGODB_LOCAL).then(() => {
+//console.log("Database connected!") 
+//  }}}}}
+
+
 connectDatabase()
 
 
@@ -39,6 +46,8 @@ app.get('/test', (req, res)=>{
 
     res.send("Test API is working!....")
 }) 
+
+
 
 
 // configuring routes of user

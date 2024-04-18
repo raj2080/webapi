@@ -1,4 +1,7 @@
 
+//first import then second create function then third export
+
+
 //importing a database package
 const mongoose = require('mongoose')
 
