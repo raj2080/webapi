@@ -56,8 +56,6 @@ app.use('/api/user', require('./routes/userRoutes'))
 // developed api :::::::>>>>>       http://localhost:5000/api/user/create
 
 
-//hihi
-
 
 
 
